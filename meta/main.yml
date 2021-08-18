@@ -13,53 +13,10 @@ galaxy_info:
   platforms:
   - name: EL
     versions:
-     - 6
-     - 7
-  #- name: GenericUNIX
-  #  versions:
-  #  - all
-  #  - any
-  #- name: Fedora
-  #  versions:
-  #  - all
-  #  - 16
-  #  - 17
-  #  - 18
-  #  - 19
-  #  - 20
-  #- name: opensuse
-  #  versions:
-  #  - all
-  #  - 12.1
-  #  - 12.2
-  #  - 12.3
-  #  - 13.1
-  #  - 13.2
-  #- name: GenericBSD
-  #  versions:
-  #  - all
-  #  - any
-  #- name: FreeBSD
-  #  versions:
-  #  - all
-  #  - 8.0
-  #  - 8.1
-  #  - 8.2
-  #  - 8.3
-  #  - 8.4
-  #  - 9.0
-  #  - 9.1
-  #  - 9.1
-  #  - 9.2
+     - all
   - name: Ubuntu
     versions:
-      - raring
-      - saucy
-      - trusty
-      - utopic
-      - vivid
-      - wily
-      - xenial
+      - all
   #- name: SLES
   #  versions:
   #  - all
@@ -75,10 +32,7 @@ galaxy_info:
   #  - any
   - name: Debian
     versions:
-      - etch
-      - lenny
-      - squeeze
-      - wheezy
+      - all
 
   # Below are all categories currently available. Just as with
   # the platforms above, uncomment those that apply to your role.
